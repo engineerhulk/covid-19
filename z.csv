@@ -1,0 +1,734 @@
+sr no. ,Distric,state,latitude,longitude,zones
+1,South Andamans, Andaman And Nicobar Islands,,,red
+2,Nicobars ,Andaman And Nicobar Islands,,,green
+3,North and Middle Andaman,Andaman And Nicobar Islands,,,green
+4,Kurnool,ANDHRA PRADESH,,,red
+5,Guntur,ANDHRA PRADESH,,,red
+6,Krishna,ANDHRA PRADESH,,,red
+7,Chittoor,ANDHRA PRADESH,,,red
+8,SPSR Nellore,ANDHRA PRADESH,,,red
+9,West Godavari,ANDHRA PRADESH,,,orange
+10,YSR (Kadapa),ANDHRA PRADESH,,,orange
+11,Anantapur,ANDHRA PRADESH,,,orange
+12,Prakasam,ANDHRA PRADESH,,,orange
+13,East Godavari,ANDHRA PRADESH,,,orange
+14,Srikakulam,ANDHRA PRADESH,,,orange
+15,Visakhapatnam,ANDHRA PRADESH,,,orange
+16,Vizianagaram,ANDHRA PRADESH,,,green
+17,Lohit,ARUNACHAL PRADESH,,,green
+18,Changlang,ARUNACHAL PRADESH,,,green
+19,Dibang Valley,ARUNACHAL PRADESH,,,green
+20,East Kameng,ARUNACHAL PRADESH,,,green
+21,East Slang,ARUNACHAL PRADESH,,,green
+22,Kurung Kumey,ARUNACHAL PRADESH,,,green
+23,Lower Dibang Valley,ARUNACHAL PRADESH,,,green
+24,Lower Subansiri,ARUNACHAL PRADESH,,,green
+25,Papum Pare,ARUNACHAL PRADESH,,,green
+26,Tawang,ARUNACHAL PRADESH,,,green
+27,Tirap,ARUNACHAL PRADESH,,,green
+28,Upper Siang,ARUNACHAL PRADESH,,,green
+29,Upper Subansiri,ARUNACHAL PRADESH,,,green
+30,West Kameng,ARUNACHAL PRADESH,,,green
+31,West Siang,ARUNACHAL PRADESH,,,green
+32,Anjaw,ARUNACHAL PRADESH,,,green
+33,Longding,ARUNACHAL PRADESH,,,green
+34,Kra Daadi,ARUNACHAL PRADESH,,,green
+35,Namsai,ARUNACHAL PRADESH,,,green
+36,Siang,ARUNACHAL PRADESH,,,green
+37,Kamle,ARUNACHAL PRADESH,,,green
+38,Lower Siang,ARUNACHAL PRADESH,,,green
+39,Pakke Kessang,ARUNACHAL PRADESH,,,green
+40,Lepa Rada,ARUNACHAL PRADESH,,,green
+41,Shi Yomi,ARUNACHAL PRADESH,,,green
+42,Dhubri,ASSAM,,,orange
+43,Morigaon,ASSAM,,,orange
+44,Goalpara,ASSAM,,,orange
+45,Golaghat,ASSAM,,,green
+46,Karimganj,ASSAM,,,green
+47,Nalbari,ASSAM,,,green
+48,Hailakandi,ASSAM,,,green
+49,Cachar,ASSAM,,,green
+50,Kamrup,ASSAM,,,green
+51,Lakhimpur,ASSAM,,,green
+52,Kamrup Metro,ASSAM,,,green
+53,South Salmara Mankachar,ASSAM,,,green
+54,Barpeta,ASSAM,,,green
+55,Bongaigaon,ASSAM,,,green
+56,Darrang,ASSAM,,,green
+57,Dhemaji,ASSAM,,,green
+58,Dibrugarh,ASSAM,,,green
+59,Jorhat,ASSAM,,,green
+60,Karbi Anglong,ASSAM,,,green
+61,Kokrajhar,ASSAM,,,green
+62,Nagaon,ASSAM,,,green
+63,Dima Hasao,ASSAM,,,green
+64,Sivasagar,ASSAM,,,green
+65,Sonitpur,ASSAM,,,green
+66,Tinsukia,ASSAM,,,green
+67,Chirang,ASSAM,,,green
+68,Baksa,ASSAM,,,green
+69,Udalguri,ASSAM,,,green
+70,Biswanath,ASSAM,,,green
+71,Majuli,ASSAM,,,green
+72,Charaideo,ASSAM,,,green
+73,Hojai,ASSAM,,,green
+74,West Karbi Anglong,ASSAM,,,green
+75,Munger,BIHAR,,,red
+76,Patna,BIHAR,,,red
+77,Rohtas,BIHAR,,,red
+78,Buxar,BIHAR,,,red
+79,Gaya,BIHAR,,,red
+80,Nalanda,BIHAR,,,orange
+81,Kaimur (Bhabua),BIHAR,,,orange
+82,Siwan,BIHAR,,,orange
+83,Gopalganj,BIHAR,,,orange
+84,Bhojpur,BIHAR,,,orange
+85,Begusarai,BIHAR,,,orange
+86,Aurangabad,BIHAR,,,orange
+87,Madhubani,BIHAR,,,orange
+88,Purbi Champaran (East Champaran),BIHAR,,,orange
+89,Bhagalpur,BIHAR,,,orange
+90,Arwal,BIHAR,,,orange
+91,Saran,BIHAR,,,orange
+92,Nawada,BIHAR,,,orange
+93,Lakhisarai,BIHAR,,,orange
+94,Banka,BIHAR,,,orange
+95,Vaishali,BIHAR,,,orange
+96,Darbhanga,BIHAR,,,orange
+97,Jehanabad,BIHAR,,,orange
+98,Madhepura,BIHAR,,,orange
+99,Purnia,BIHAR,,,orange
+100,Sheikhpura,BIHAR,,,green
+101,Araria,BIHAR,,,green
+102,Jamui,BIHAR,,,green
+103,Katihar,BIHAR,,,green
+104,Khagaria,BIHAR,,,green
+105,Kishanganj,BIHAR,,,green
+106,Muzaffarpur,BIHAR,,,green
+107,Pashchim Champaran (West Champaran),BIHAR,,,green
+108,Saharsa,BIHAR,,,green
+109,Samastipur,BIHAR,,,green
+110,Sheohar,BIHAR,,,green
+111,Sitamarhi,BIHAR,,,green
+112,Supaul,BIHAR,,,green
+113,Chandigarh,CHANDIGARH,,,red
+114,Raipur,CHHATTISGARH,,,red
+115,Korba,CHHATTISGARH,,,orange
+116,Surajpur,CHHATTISGARH,,,green
+117,Bilaspur,CHHATTISGARH,,,green
+118,Durg,CHHATTISGARH,,,green
+119,Rajnandgaon,CHHATTISGARH,,,green
+120,Basta,CHHATTISGARH,,,green
+121,Dantewada,CHHATTISGARH,,,green
+122,Dhamtari,CHHATTISGARH,,,green
+123,Janjgir-Champa,CHHATTISGARH,,,green
+124,Jashpur,CHHATTISGARH,,,green
+125,Kanker,CHHATTISGARH,,,green
+126,Kabirdham,CHHATTISGARH,,,green
+127,Korea (Koriya),CHHATTISGARH,,,green
+128,Mahasamund,CHHATTISGARH,,,green
+129,Raigarh,CHHATTISGARH,,,green
+130,Surguia,CHHATTISGARH,,,green
+131,Bijapur,CHHATTISGARH,,,green
+132,Nayaranpur,CHHATTISGARH,,,green
+133,Sukma,CHHATTISGARH,,,green
+134,Kondagaon,CHHATTISGARH,,,green
+135,Baloda Bazar,CHHATTISGARH,,,green
+136,Garivaband,CHHATTISGARH,,,green
+137,Balod,CHHATTISGARH,,,green
+138,Munseli,CHHATTISGARH,,,green
+139,Balrampur,CHHATTISGARH,,,green
+140,Bemetara,CHHATTISGARH,,,green
+141,Dadra And Nagar Haveli,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,,,green
+142,Daman,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,,,green
+143,Diu,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,,,green
+144,South East Delhi,DELHI,,,red
+145,Central Delhi,DELHI,,,red
+146,North Delhi,DELHI,,,red
+147,South Delhi,DELHI,,,red
+148,North East Delhi,DELHI,,,red
+149,West Delhi,DELHI,,,red
+150,Shahdara,DELHI,,,red
+151,East Delhi,DELHI,,,red
+152,New Delhi,DELHI,,,red
+153,North West Delhi,DELHI,,,red
+154,South West Delhi,DELHI,,,red
+155,North Goa,GOA,,,green
+156,South Goa,GOA,,,green
+157,Ahmedabad,GUJARAT,,,red
+158,Surat,GUJARAT,,,red
+159,Vadodara,GUJARAT,,,red
+160,Anand,GUJARAT,,,red
+161,Banaskantha,GUJARAT,,,red
+162,Panchmahal,GUJARAT,,,red
+163,Bhavnagar,GUJARAT,,,red
+164,Gandhinagar,GUJARAT,,,red
+165,Aravalli,GUJARAT,,,red
+166,Rajkot,GUJARAT,,,orange
+167,Bharuch,GUJARAT,,,orange
+168,Botad,GUJARAT,,,orange
+169,Narmada,GUJARAT,,,orange
+170,Chhota Udaipur (Chhotaudepur),GUJARAT,,,orange
+171,Mahisagar,GUJARAT,,,orange
+172,Mehsana,GUJARAT,,,orange
+173,Patan,GUJARAT,,,orange
+174,Kheda,GUJARAT,,,orange
+175,Valsad,GUJARAT,,,orange
+176,Dohad,GUJARAT,,,orange
+177,Kachchh (Kutch),GUJARAT,,,orange
+178,Navsari,GUJARAT,,,orange
+179,Gir Somnath,GUJARAT,,,orange
+180,Dang,GUJARAT,,,orange
+181,Sabarkantha,GUJARAT,,,orange
+182,Tapi,GUJARAT,,,orange
+183,Jamnagar,GUJARAT,,,orange
+184,Surendranagar,GUJARAT,,,orange
+185,Morbi,GUJARAT,,,green
+186,Amreli,GUJARAT,,,green
+187,Porbandar,GUJARAT,,,green
+188,Junagadh,GUJARAT,,,green
+189,Devbhumi Dwarka (Devbhoomi Dwarka),GUJARAT,,,green
+190,Sonipat,HARYANA,,,red
+191,Faridabad,HARYANA,,,red
+192,Gurugram (Gurgaon),HARYANA,,,orange
+193,Nuh,HARYANA,,,orange
+194,Panipat,HARYANA,,,orange
+195,Panchkula,HARYANA,,,orange
+196,Palwal,HARYANA,,,orange
+197,Rohtak,HARYANA,,,orange
+198,Hisar,HARYANA,,,orange
+199,Ambala,HARYANA,,,orange
+200,Jhajjar,HARYANA,,,orange
+201,Bhiwani,HARYANA,,,orange
+202,Kaithal,HARYANA,,,orange
+203,Kurukshetra,HARYANA,,,orange
+204,Karnal,HARYANA,,,orange
+205,Jind,HARYANA,,,orange
+206,Sirsa,HARYANA,,,orange
+207,Yamunanagar,HARYANA,,,orange
+208,Fatehabad,HARYANA,,,orange
+209,Charkhi Dadri,HARYANA,,,orange
+210,Mahendragarh,HARYANA,,,green
+211,Rewari,HARYANA,,,green
+212,Una,HIMACHAL PRADESH,,,orange
+213,Chamba,HIMACHAL PRADESH,,,orange
+214,Hamirpur,HIMACHAL PRADESH,,,orange
+215,Kangra,HIMACHAL PRADESH,,,orange
+216,Sirmaur,HIMACHAL PRADESH,,,orange
+217,Solan,HIMACHAL PRADESH,,,orange
+218,Bilaspur,HIMACHAL PRADESH,,,green
+219,Kinnaur,HIMACHAL PRADESH,,,green
+220,Kullu,HIMACHAL PRADESH,,,green
+221,Lahul and Spiti,HIMACHAL PRADESH,,,green
+222,Mandi,HIMACHAL PRADESH,,,green
+223,Shimla,HIMACHAL PRADESH,,,green
+224,Bandipora,JAMMU AND KASHMIR,,,red
+225,Shopian,JAMMU AND KASHMIR,,,red
+226,Anantnag,JAMMU AND KASHMIR,,,red
+227,Srinagar,JAMMU AND KASHMIR,,,red
+228,Baramulla,JAMMU AND KASHMIR,,,orange
+229,Kupwara,JAMMU AND KASHMIR,,,orange
+230,Ganderbal,JAMMU AND KASHMIR,,,orange
+231,Jammu,JAMMU AND KASHMIR,,,orange
+232,Udhampur,JAMMU AND KASHMIR,,,orange
+233,Kulgam,JAMMU AND KASHMIR,,,orange
+234,Budgam,JAMMU AND KASHMIR,,,orange
+235,Samba,JAMMU AND KASHMIR,,,orange
+236,Kathua,JAMMU AND KASHMIR,,,orange
+237,Rajouri,JAMMU AND KASHMIR,,,orange
+238,Ramban,JAMMU AND KASHMIR,,,orange
+239,Reasi,JAMMU AND KASHMIR,,,orange
+240,Pulwama,JAMMU AND KASHMIR,,,green
+241,Kishtwar,JAMMU AND KASHMIR,,,green
+242,Doda,JAMMU AND KASHMIR,,,green
+243,Poonch,JAMMU AND KASHMIR,,,green
+244,Ranchi,JHARKHAND,,,red
+245,Bokaro,JHARKHAND,,,orange
+246,Garhwa,JHARKHAND,,,orange
+247,Dhanbad,JHARKHAND,,,orange
+248,Deoghar,JHARKHAND,,,orange
+249,Hazaribagh,JHARKHAND,,,orange
+250,Simdega,JHARKHAND,,,orange
+251,Giridih,JHARKHAND,,,orange
+252,Koderma,JHARKHAND,,,orange
+253,Jamtara,JHARKHAND,,,orange
+254,Chatra,JHARKHAND,,,green
+255,Dumka,JHARKHAND,,,green
+256,East Singhbum,JHARKHAND,,,green
+257,Godda,JHARKHAND,,,green
+258,Gumla,JHARKHAND,,,green
+259,Latehar,JHARKHAND,,,green
+260,Lohardaga,JHARKHAND,,,green
+261,Pakur,JHARKHAND,,,green
+262,Palamu,JHARKHAND,,,green
+263,Sahebganj,JHARKHAND,,,green
+264,Saraikela Kharsawan,JHARKHAND,,,green
+265,West Singhbhum,JHARKHAND,,,green
+266,Khunti,JHARKHAND,,,green
+267,Ramgarh,JHARKHAND,,,green
+268,Bengaluru Urban (Bangalore City),KARNATAKA,,,red
+269,Mysuru (Mysore),KARNATAKA,,,red
+270,Bengaluru Rural,KARNATAKA,,,red
+271,Belagavi (Belgaum),KARNATAKA,,,orange
+272,Vijayapura,KARNATAKA,,,orange
+273,Kalaburagi (Gulbarga),KARNATAKA,,,orange
+274,Bagalkote,KARNATAKA,,,orange
+275,Mandya,KARNATAKA,,,orange
+276,Ballari (Bellary),KARNATAKA,,,orange
+277,Dharwad,KARNATAKA,,,orange
+278,Dakshina Kannada (South Canara),KARNATAKA,,,orange
+279,Bidar,KARNATAKA,,,orange
+280,Chikkaballapura,KARNATAKA,,,orange
+281,Gadag,KARNATAKA,,,orange
+282,Uttara Kannada (North Canara),KARNATAKA,,,orange
+283,Tumakuru,KARNATAKA,,,orange
+284,Davangere,KARNATAKA,,,green
+285,Udupi,KARNATAKA,,,green
+286,Chamarajanagar,KARNATAKA,,,green
+287,Chikkamagaluru (Chikmagalur),KARNATAKA,,,green
+288,Chitradurga,KARNATAKA,,,green
+289,Hassan,KARNATAKA,,,green
+290,Haveri,KARNATAKA,,,green
+291,Kodagu,KARNATAKA,,,green
+292,Kolar,KARNATAKA,,,green
+293,Koppal,KARNATAKA,,,green
+294,Raichur,KARNATAKA,,,green
+295,Shivamogga,KARNATAKA,,,green
+296,Ramanagara,KARNATAKA,,,green
+297,Yadgir,KARNATAKA,,,green
+298,Kannur,KERALA,,,red
+299,Kottayam,KERALA,,,red
+300,Kasaragod,KERALA,,,orange
+301,Idukki,KERALA,,,orange
+302,Kozhikode (Calicut),KERALA,,,orange
+303,Kollam,KERALA,,,orange
+304,Palakkad,KERALA,,,orange
+305,Pathanamthitta,KERALA,,,orange
+306,Malappuram,KERALA,,,orange
+307,Thiruvananthapuram (Trivandrum),KERALA,,,orange
+308,Alappuzha (Alleppey),KERALA,,,orange
+309,Thrissur,KERALA,,,orange
+310,Ernakulam,KERALA,,,green
+311,Wayanad,KERALA,,,green
+312,Leh Ladakh,LADAKH,,,orange
+313,Kargil,LADAKH,,,orange
+314,Lakshadweep District,LAKSHADWEEP,,,green
+315,lndore,MADHYA PRADESH,,,red
+316,Bhopal,MADHYA PRADESH,,,red
+317,Ujjain,MADHYA PRADESH,,,red
+318,Jabalpur,MADHYA PRADESH,,,red
+319,Dhar,MADHYA PRADESH,,,red
+320,Barwani,MADHYA PRADESH,,,red
+321,East Nimar,MADHYA PRADESH,,,red
+322,Dewas,MADHYA PRADESH,,,red
+323,Gwalior,MADHYA PRADESH,,,red
+324,Khargone,MADHYA PRADESH,,,orange
+325,Raisen,MADHYA PRADESH,,,orange
+326,Hoshangabad,MADHYA PRADESH,,,orange
+327,Ratlam,MADHYA PRADESH,,,orange
+328,Agar Malwa,MADHYA PRADESH,,,orange
+329,Mandsaur,MADHYA PRADESH,,,orange
+330,Sagar,MADHYA PRADESH,,,orange
+331,Shajapur,MADHYA PRADESH,,,orange
+332,Chhindwara,MADHYA PRADESH,,,orange
+333,Alirajpur,MADHYA PRADESH,,,orange
+334,Tikamgarh,MADHYA PRADESH,,,orange
+335,Shahdol,MADHYA PRADESH,,,orange
+336,Sheopur,MADHYA PRADESH,,,orange
+337,Dindori,MADHYA PRADESH,,,orange
+338,Burhanpur,MADHYA PRADESH,,,orange
+339,Harda,MADHYA PRADESH,,,orange
+340,Betul,MADHYA PRADESH,,,orange
+341,Vidisha,MADHYA PRADESH,,,orange
+342,Morena,MADHYA PRADESH,,,orange
+343,Rewa,MADHYA PRADESH,,,green
+344,Ashoknagar,MADHYA PRADESH,,,green
+345,Rajgarh,MADHYA PRADESH,,,green
+346,Shivpuri,MADHYA PRADESH,,,green
+347,Anuppur,MADHYA PRADESH,,,green
+348,Balaghat,MADHYA PRADESH,,,green
+349,Bhind,MADHYA PRADESH,,,green
+350,Chhatarpur,MADHYA PRADESH,,,green
+351,Damoh,MADHYA PRADESH,,,green
+352,Datia,MADHYA PRADESH,,,green
+353,Guna,MADHYA PRADESH,,,green
+354,Jhabua,MADHYA PRADESH,,,green
+355,Katni,MADHYA PRADESH,,,green
+356,Mandla,MADHYA PRADESH,,,green
+357,Narsinghpur,MADHYA PRADESH,,,green
+358,Neemuch,MADHYA PRADESH,,,green
+359,Panna,MADHYA PRADESH,,,green
+360,Satna,MADHYA PRADESH,,,green
+361,Sehore,MADHYA PRADESH,,,green
+362,Seoni,MADHYA PRADESH,,,green
+363,Sidhi,MADHYA PRADESH,,,green
+364,Umaria,MADHYA PRADESH,,,green
+365,Singrauli,MADHYA PRADESH,,,green
+366,Niwari,MADHYA PRADESH,,,green
+367,Mumbai,MAHARASHTRA,,,red
+368,Pune,MAHARASHTRA,,,red
+369,Thane,MAHARASHTRA,,,red
+370,Nashik,MAHARASHTRA,,,red
+371,Palghar,MAHARASHTRA,,,red
+372,Nagpur,MAHARASHTRA,,,red
+373,Solapur,MAHARASHTRA,,,red
+374,Yavatmal,MAHARASHTRA,,,red
+375,Aurangabad,MAHARASHTRA,,,red
+376,Satara,MAHARASHTRA,,,red
+377,Dhule,MAHARASHTRA,,,red
+378,Akola,MAHARASHTRA,,,red
+379,Jalgaon,MAHARASHTRA,,,red
+380,Mumbai Suburban,MAHARASHTRA,,,red
+381,Raigad,MAHARASHTRA,,,orange
+382,Ahmednagar,MAHARASHTRA,,,orange
+383,Amravati,MAHARASHTRA,,,orange
+384,Buldhana,MAHARASHTRA,,,orange
+385,Nandurbar,MAHARASHTRA,,,orange
+386,Kolhapur,MAHARASHTRA,,,orange
+387,Hingoli,MAHARASHTRA,,,orange
+388,Ratnagiri,MAHARASHTRA,,,orange
+389,Jalna,MAHARASHTRA,,,orange
+390,Nanded,MAHARASHTRA,,,orange
+391,Chandrapur,MAHARASHTRA,,,orange
+392,Parbhani,MAHARASHTRA,,,orange
+393,Sangli,MAHARASHTRA,,,orange
+394,Latur,MAHARASHTRA,,,orange
+395,Bhandara,MAHARASHTRA,,,orange
+396,Beed,MAHARASHTRA,,,orange
+397,Osmanabad,MAHARASHTRA,,,green
+398,Washim,MAHARASHTRA,,,green
+399,Sindhudurg,MAHARASHTRA,,,green
+400,Gondia,MAHARASHTRA,,,green
+401,Gadchiroli,MAHARASHTRA,,,green
+402,Wardha,MAHARASHTRA,,,green
+403,lmphal West,MANIPUR,,,green
+404,Thoubal,MANIPUR,,,green
+405,Bishnupur,MANIPUR,,,green
+406,Chandel,MANIPUR,,,green
+407,Churachandpur,MANIPUR,,,green
+408,lmphal East,MANIPUR,,,green
+409,Senapati,MANIPUR,,,green
+410,Tamenglong,MANIPUR,,,green
+411,Ukhrul,MANIPUR,,,green
+412,Kakching,MANIPUR,,,green
+413,Kangpokpi,MANIPUR,,,green
+414,Jiribam,MANIPUR,,,green
+415,Noney,MANIPUR,,,green
+416,Pherzawl,MANIPUR,,,green
+417,Tengnoupal,MANIPUR,,,green
+418,Kamjong,MANIPUR,,,green
+419,East Khasi Hills,MEGHALAYA,,,orange
+420,East Garo Hills,MEGHALAYA,,,green
+421,West Jaintia Hills,MEGHALAYA,,,green
+422,Ri Bhoi,MEGHALAYA,,,green
+423,South Garo Hills,MEGHALAYA,,,green
+424,West Garo Hills,MEGHALAYA,,,green
+425,West Khasi Hills,MEGHALAYA,,,green
+426,North Garo Hills,MEGHALAYA,,,green
+427,East Jaintia Hills,MEGHALAYA,,,green
+428,South West Khasi Hills,MEGHALAYA,,,green
+429,South West Garo Hills,MEGHALAYA,,,green
+430,Aizawl,MIZORAM,,,green
+431,Champhai,MIZORAM,,,green
+432,Kolasib,MIZORAM,,,green
+433,Lawngtlai,MIZORAM,,,green
+434,Lunglei,MIZORAM,,,green
+435,Mamit,MIZORAM,,,green
+436,Saiha,MIZORAM,,,green
+437,Serchhip,MIZORAM,,,green
+438,Hnahthial,MIZORAM,,,green
+439,Saitual,MIZORAM,,,green
+440,Khawzawl,MIZORAM,,,green
+441,Dimapur,NAGALAND,,,green
+442,Kohima,NAGALAND,,,green
+443,Mokokchung,NAGALAND,,,green
+444,Mon,NAGALAND,,,green
+445,Phek,NAGALAND,,,green
+446,Tuensang,NAGALAND,,,green
+447,Wokha,NAGALAND,,,green
+448,Zunheboto,NAGALAND,,,green
+449,Peren,NAGALAND,,,green
+450,Kiphire,NAGALAND,,,green
+451,Longleng,NAGALAND,,,green
+452,Jaiapur,ODISHA,,,red
+453,Bhadrak,ODISHA,,,red
+454,Baleshwar (Balasore),ODISHA,,,red
+455,Khordha,ODISHA,,,orange
+456,Sundargarh,ODISHA,,,orange
+457,Kendrapara,ODISHA,,,orange
+458,Koraput,ODISHA,,,orange
+459,Dhenkanal,ODISHA,,,orange
+460,Kalahandi,ODISHA,,,orange
+461,Cuttack,ODISHA,,,green
+462,Puri,ODISHA,,,green
+463,Anugul,ODISHA,,,green
+464,Balangir,ODISHA,,,green
+465,Bargarh,ODISHA,,,green
+466,Boudh,ODISHA,,,green
+467,Deogarh,ODISHA,,,green
+468,Gajapati,ODISHA,,,green
+469,Ganjam,ODISHA,,,green
+470,Jagatsinghpur,ODISHA,,,green
+471,Jharsuguda,ODISHA,,,green
+472,Kandhamal,ODISHA,,,green
+473,Kendujhar,ODISHA,,,green
+474,Malkangiri,ODISHA,,,green
+475,Mayurbhanj,ODISHA,,,green
+476,Nabarangpur,ODISHA,,,green
+477,Nayagarh,ODISHA,,,green
+478,Nuapada,ODISHA,,,green
+479,Rayagada,ODISHA,,,green
+480,Sambalpur,ODISHA,,,green
+481,Sonepur,ODISHA,,,green
+482,Pondicherry,PUDUCHERRY,,,orange
+483,Karaikal,PUDUCHERRY,,,green
+484,Mahe,PUDUCHERRY,,,green
+485,Yanam,PUDUCHERRY,,,green
+486,Jalandhar,PUNJAB,,,red
+487,Patiala,PUNJAB,,,red
+488,Ludhiana,PUNJAB,,,red
+489,SAS Nagar (Mohali),PUNJAB,,,orange
+490,Pathankot,PUNJAB,,,orange
+491,Mansa,PUNJAB,,,orange
+492,Tarn Taran,PUNJAB,,,orange
+493,Amritsar,PUNJAB,,,orange
+494,Kapurthala,PUNJAB,,,orange
+495,Hoshiarpur,PUNJAB,,,orange
+496,Faridkot,PUNJAB,,,orange
+497,Sangrur,PUNJAB,,,orange
+498,Shahid Bhagat Singh Nagar (Nawanshahr),PUNJAB,,,orange
+499,Firozpur (Firojpur or Ferozepur),PUNJAB,,,orange
+500,Sri Muktsar Sahib,PUNJAB,,,orange
+501,Moga,PUNJAB,,,orange
+502,Gurdaspur,PUNJAB,,,orange
+503,Barnala,PUNJAB,,,orange
+504,Rupnagar (Ropar),PUNJAB,,,green
+505,Fatehgarh Sahib,PUNJAB,,,green
+506,Bathinda,PUNJAB,,,green
+507,Fazilka,PUNJAB,,,green
+508,Jaipur,RAJASTHAN,,,red
+509,Jodhpur,RAJASTHAN,,,red
+510,Kota,RAJASTHAN,,,red
+511,Ajmer,RAJASTHAN,,,red
+512,Bharatpur,RAJASTHAN,,,red
+513,Nagaur,RAJASTHAN,,,red
+514,Banswara,RAJASTHAN,,,red
+515,Jhalawar,RAJASTHAN,,,red
+516,Tonk,RAJASTHAN,,,orange
+517,Jaisalmer,RAJASTHAN,,,orange
+518,Dausa,RAJASTHAN,,,orange
+519,Jhunjhunu,RAJASTHAN,,,orange
+520,Hanumangarh,RAJASTHAN,,,orange
+521,Bhilwara,RAJASTHAN,,,orange
+522,Sawai Madhopur,RAJASTHAN,,,orange
+523,Chittorgarh,RAJASTHAN,,,orange
+524,Dungarpur,RAJASTHAN,,,orange
+525,Udaipur,RAJASTHAN,,,orange
+526,Dholpur,RAJASTHAN,,,orange
+527,Sikar,RAJASTHAN,,,orange
+528,Alwar,RAJASTHAN,,,orange
+529,Bikaner,RAJASTHAN,,,orange
+530,Churu,RAJASTHAN,,,orange
+531,Pali,RAJASTHAN,,,orange
+532,Barmer,RAJASTHAN,,,orange
+533,Karauli,RAJASTHAN,,,orange
+534,Rajsamand,RAJASTHAN,,,orange
+535,Baran,RAJASTHAN,,,green
+536,Bundi,RAJASTHAN,,,green
+537,Ganganagar,RAJASTHAN,,,green
+538,Jalore,RAJASTHAN,,,green
+539,Sirohi,RAJASTHAN,,,green
+540,Pratapgarh,RAJASTHAN,,,green
+541,North Sikkim,SIKKIM,,,green
+542,East Sikkim,SIKKIM,,,green
+543,South Sikkim,SIKKIM,,,green
+544,West Sikkim,SIKKIM,,,green
+545,Chennai,TAMIL NADU,,,red
+546,Madurai,TAMIL NADU,,,red
+547,Namakkal,TAMIL NADU,,,red
+548,Thanjavur (Tanjore),TAMIL NADU,,,red
+549,Chengalpattu,TAMIL NADU,,,red
+550,Thiruvallur (Tiruvallur),TAMIL NADU,,,red
+551,Tiruppur,TAMIL NADU,,,red
+552,Ranipet,TAMIL NADU,,,red
+553,Virudhunagar,TAMIL NADU,,,red
+554,Thiruvarur (Tiruvarur),TAMIL NADU,,,red
+555,Vellore,TAMIL NADU,,,red
+556,Kanchipuram,TAMIL NADU,,,red
+557,Theni,TAMIL NADU,,,orange
+558,Tenkasi,TAMIL NADU,,,orange
+559,Nagapattinam,TAMIL NADU,,,orange
+560,Dindigul,TAMIL NADU,,,orange
+561,Villupuram,TAMIL NADU,,,orange
+562,Coimbatore,TAMIL NADU,,,orange
+563,Cuddalore,TAMIL NADU,,,orange
+564,Salem,TAMIL NADU,,,orange
+565,Karur,TAMIL NADU,,,orange
+566,Thoothukudi (Tuticorin),TAMIL NADU,,,orange
+567,Tiruchirappalli (Trichy),TAMIL NADU,,,orange
+568,Tirupathur,TAMIL NADU,,,orange
+569,Kanyakumari,TAMIL NADU,,,orange
+570,Tiruvannamalai,TAMIL NADU,,,orange
+571,Ramanathapuram,TAMIL NADU,,,orange
+572,Tirunelveli,TAMIL NADU,,,orange
+573,The Nilgiris,TAMIL NADU,,,orange
+574,Sivaganga,TAMIL NADU,,,orange
+575,Perambalur,TAMIL NADU,,,orange
+576,Kallakurichi,TAMIL NADU,,,orange
+577,Ariyalur,TAMIL NADU,,,orange
+578,Erode,TAMIL NADU,,,orange
+579,Pudukkottai,TAMIL NADU,,,orange
+580,Dharmapuri,TAMIL NADU,,,orange
+581,Krishnagiri,TAMIL NADU,,,green
+582,Hyderabad,TELANGANA,,,red
+583,Suryapet,TELANGANA,,,red
+584,Ranga Reddy,TELANGANA,,,red
+585,Medchal Malkajgiri,TELANGANA,,,red
+586,Vikarabad,TELANGANA,,,red
+587,Warangal Urban,TELANGANA,,,red
+588,Nizamabad,TELANGANA,,,orange
+589,Jogulamba Gadwal,TELANGANA,,,orange
+590,Nirmal,TELANGANA,,,orange
+591,Nalgonda,TELANGANA,,,orange
+592,Adilabad,TELANGANA,,,orange
+593,Sangareddy,TELANGANA,,,orange
+594,Kamareddy,TELANGANA,,,orange
+595,Komaram Bheem Asifabad,TELANGANA,,,orange
+596,Karimnagar,TELANGANA,,,orange
+597,Khammam,TELANGANA,,,orange
+598,Mahabubnagar,TELANGANA,,,orange
+599,Jagitial,TELANGANA,,,orange
+600,Rajanna Sircilla,TELANGANA,,,orange
+601,Jayashankar Bhupalpally,TELANGANA,,,orange
+602,Medak,TELANGANA,,,orange
+603,Jangoan,TELANGANA,,,orange
+604,Narayanpet,TELANGANA,,,orange
+605,Mancherial,TELANGANA,,,orange
+606,Peddapalli,TELANGANA,,,green
+607,Nagarkurnool,TELANGANA,,,green
+608,Mulugu,TELANGANA,,,green
+609,Bhadradri Kothagudem,TELANGANA,,,green
+610,Mahabubabad,TELANGANA,,,green
+611,Siddipet,TELANGANA,,,green
+612,Warangal Rural,TELANGANA,,,green
+613,Wanaparthy,TELANGANA,,,green
+614,Yadadri Bhuvanagiri,TELANGANA,,,green
+615,North Tripura,TRIPURA,,,orange
+616,Gomati,TRIPURA,,,orange
+617,Dhalai,TRIPURA,,,green
+618,South Tripura,TRIPURA,,,green
+619,West Tripura,TRIPURA,,,green
+620,Khowai,TRIPURA,,,green
+621,Sepahijala,TRIPURA,,,green
+622,Unakoti,TRIPURA,,,green
+623,Agra,UTTAR PRADESH,,,red
+624,Lucknow,UTTAR PRADESH,,,red
+625,Saharanpur,UTTAR PRADESH,,,red
+626,Kanpur Nagar,UTTAR PRADESH,,,red
+627,Moradabad,UTTAR PRADESH,,,red
+628,Firozabad,UTTAR PRADESH,,,red
+629,Gautam Buddh Nagar (Noida and Greater Noida),UTTAR PRADESH,,,red
+630,Bulandshahr,UTTAR PRADESH,,,red
+631,Meerut,UTTAR PRADESH,,,red
+632,Raebareli,UTTAR PRADESH,,,red
+633,Varanasi (Banaras),UTTAR PRADESH,,,red
+634,Bijnor,UTTAR PRADESH,,,red
+635,Amroha,UTTAR PRADESH,,,red
+636,Sant Kabir Nagar,UTTAR PRADESH,,,red
+637,Aligarh,UTTAR PRADESH,,,red
+638,Muzaffarnagar,UTTAR PRADESH,,,red
+639,Rampur,UTTAR PRADESH,,,red
+640,Mathura,UTTAR PRADESH,,,red
+641,Bareilly,UTTAR PRADESH,,,red
+642,Ghaziabad,UTTAR PRADESH,,,orange
+643,Hapur,UTTAR PRADESH,,,orange
+644,Baghpat,UTTAR PRADESH,,,orange
+645,Basti,UTTAR PRADESH,,,orange
+646,Budaun,UTTAR PRADESH,,,orange
+647,Sambhal,UTTAR PRADESH,,,orange
+648,Auraiya,UTTAR PRADESH,,,orange
+649,Shamli,UTTAR PRADESH,,,orange
+650,Sitapur,UTTAR PRADESH,,,orange
+651,Bahraich,UTTAR PRADESH,,,orange
+652,Kannauj,UTTAR PRADESH,,,orange
+653,Azamgarh,UTTAR PRADESH,,,orange
+654,Mainpuri,UTTAR PRADESH,,,orange
+655,Shravasti,UTTAR PRADESH,,,orange
+656,Banda,UTTAR PRADESH,,,orange
+657,Jaunpur,UTTAR PRADESH,,,orange
+658,Etah,UTTAR PRADESH,,,orange
+659,Kasganj,UTTAR PRADESH,,,orange
+660,Sultanpur,UTTAR PRADESH,,,orange
+661,Prayagraj (Allahabad),UTTAR PRADESH,,,orange
+662,Jalaun,UTTAR PRADESH,,,orange
+663,Mirzapur,UTTAR PRADESH,,,orange
+664,Etawah,UTTAR PRADESH,,,orange
+665,Pratapgarh,UTTAR PRADESH,,,orange
+666,Ghazipur,UTTAR PRADESH,,,orange
+667,Gonda,UTTAR PRADESH,,,orange
+668,Mau,UTTAR PRADESH,,,orange
+669,Bhadohi,UTTAR PRADESH,,,orange
+670,Unnao,UTTAR PRADESH,,,orange
+671,Pilibhit,UTTAR PRADESH,,,orange
+672,Balrampur,UTTAR PRADESH,,,orange
+673,Ayodhya (Faizabad),UTTAR PRADESH,,,orange
+674,Gorakhpur,UTTAR PRADESH,,,orange
+675,Jhansi,UTTAR PRADESH,,,orange
+676,Hardoi,UTTAR PRADESH,,,orange
+677,Kaushambi,UTTAR PRADESH,,,orange
+678,Barabanki,UTTAR PRADESH,,,green
+679,Kheri,UTTAR PRADESH,,,green
+680,Hathras,UTTAR PRADESH,,,green
+681,Maharajganj,UTTAR PRADESH,,,green
+682,Shahjahanpur,UTTAR PRADESH,,,green
+683,Ambedkar Nagar,UTTAR PRADESH,,,green
+684,Ballia,UTTAR PRADESH,,,green
+685,Chandauli,UTTAR PRADESH,,,green
+686,Chitrakoot,UTTAR PRADESH,,,green
+687,Deoria,UTTAR PRADESH,,,green
+688,Farrukhabad,UTTAR PRADESH,,,green
+689,Fatehpur,UTTAR PRADESH,,,green
+690,Hamirpur,UTTAR PRADESH,,,green
+691,Kanpur Dehat,UTTAR PRADESH,,,green
+692,Kushi Nagar,UTTAR PRADESH,,,green
+693,Lalitpur,UTTAR PRADESH,,,green
+694,Mahoba,UTTAR PRADESH,,,green
+695,Siddharth Nagar,UTTAR PRADESH,,,green
+696,Sonbhadra,UTTAR PRADESH,,,green
+697,Amethi,UTTAR PRADESH,,,green
+698,Haridwar,UTTARAKHAND,,,red
+699,Dehradun,UTTARAKHAND,,,orange
+700,Nainital,UTTARAKHAND,,,orange
+701,Udham Singh Nagar,UTTARAKHAND,,,green
+702,Almora,UTTARAKHAND,,,green
+703,Pauri Garhwal,UTTARAKHAND,,,green
+704,Bageshwar,UTTARAKHAND,,,green
+705,Chamoli,UTTARAKHAND,,,green
+706,Champawat,UTTARAKHAND,,,green
+707,Pithoragarh,UTTARAKHAND,,,green
+708,Rudraprayag,UTTARAKHAND,,,green
+709,Tehri Garhwal,UTTARAKHAND,,,green
+710,Uttarkashi,UTTARAKHAND,,,green
+711,Kolkata,WEST BENGAL,,,red
+712,Howrah,WEST BENGAL,,,red
+713,North 24 Parganas,WEST BENGAL,,,red
+714,South 24 Parganas,WEST BENGAL,,,red
+715,Paschim Medinipur (West Midnapore),WEST BENGAL,,,red
+716,Purba Medinipur (East Midnapore),WEST BENGAL,,,red
+717,Darjeeling,WEST BENGAL,,,red
+718,Jalpaiguri,WEST BENGAL,,,red
+719,Kalimpong,WEST BENGAL,,,red
+720,Malda,WEST BENGAL,,,red
+721,Hooghly,WEST BENGAL,,,orange
+722,Paschim Bardhaman,WEST BENGAL,,,orange
+723,Nadia,WEST BENGAL,,,orange
+724,Purba Bardhaman,WEST BENGAL,,,orange
+725,Murshidabad,WEST BENGAL,,,orange
+726,Uttar Dinajpur,WEST BENGAL,,,green
+727,Bankura,WEST BENGAL,,,green
+728,Birbhum,WEST BENGAL,,,green
+729,Cooch Behar,WEST BENGAL,,,green
+730,Dakshin Dinajpur,WEST BENGAL,,,green
+731,Purulia,WEST BENGAL,,,green
+732,Alipurduar,WEST BENGAL,,,green
+733,Jhargram,WEST BENGAL,,,green
